@@ -68,43 +68,27 @@ li a:hover {
 #Primary.card{
   display: flex;
   background: #fcfcfc;
-  padding: 20px;
-  width: 80%;
-  max-width: 500px;
-  max-height: 400px;
   text-align: center;
   font-family: Arial;
-  position: absolute;
-  top: 50%;
-  left: 30%;
-  transform: translateX(-50%) translateY(-50%);
 }
 
 #Eversdal.card-img-top{
   margin: 0;
   padding: 0;
-  margin-left: 37%;
+  margin-left: 33%;
 }
 
 #High.card{
   display: flex;
   background: #fcfcfc;
-  padding: 20px;
-  width: 80%;
-  max-width: 500px;
-  max-height: 400px;
   text-align: center;
   font-family: Arial;
-  position: absolute;
-  top: 50%;
-  left: 70%;
-  transform: translateX(-50%) translateY(-50%);
 }
 
 #Stellenberg.card-img-top{
   margin: 0;
   padding: 0;
-  margin-left: 37%;
+  margin-left: 33%;
 }
 
 #contact{
@@ -114,10 +98,10 @@ li a:hover {
   padding: 0px;
   background: #fcfcfc;
   margin-top: 10%;
-  margin-left: 20%;
+  margin-left: 15%;
   /* width: 60%;
   height: 50%; */
-  max-width: 60%;
-  max-height: 60%;
+  max-width: 70%;
+  max-height: 95%;
 }
 
